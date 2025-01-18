@@ -47,3 +47,5 @@ tagBtns.forEach((tagBtn) => {
     });
   });
 });
+
+//페이지네이션 필요

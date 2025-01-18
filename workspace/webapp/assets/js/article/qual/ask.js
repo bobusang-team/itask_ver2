@@ -50,3 +50,5 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   });
 });
+
+//페이지네이션 필요
